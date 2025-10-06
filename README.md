@@ -15,6 +15,9 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Mac](https://img.shields.io/badge/Mac-000000?style=flat-square&logo=apple&logoColor=white)
 
+## GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=upotato200&show_icons=true&theme=default)
 ---
 
 ## Current Projects (2025.08 ~ 2025.12)(2024.03 졸업)
@@ -29,7 +32,7 @@
 - **기술 스택**: Spring Boot, Spring AI, OpenAI API
 - **설명**: 캘린더와 Todo 관리를 위한 AI 챗봇 시스템
 
-## Past Projects (2022.09 ~ 2022.11)
+## Past Projects (2022.09 ~ 2022.11)(2학년 재학중)
 
 ### 3. Travel MBTI (개인 프로젝트)
 [Repository](https://github.com/upotato200/TravelMBTI)
@@ -38,24 +41,4 @@
 
 ---
 
-## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=upotato200&show_icons=true&theme=default)
-
----
-
-## Blog & Contact
-
-- 기술 블로그: [whlsls3377.tistory.com](https://whlsls3377.tistory.com/)
-- Email: whlsls3377.dev@gmail.com
-- LinkedIn: [추가 예정]
-
----
-
-## 2025 Goals 아래 목표 이루고자합니다.
-
-- Spring Boot 기반 실무 프로젝트 3개 완성
-- 알고리즘 문제 200개 해결
-- 기술 블로그 포스팅 20개
-- 백엔드 개발자 취업
 
