@@ -22,9 +22,9 @@
 ## Current Projects (2025.08 ~ 2025.12)(졸업)
 
 ### 1. AI 활용 비즈니스 플랫폼 (진행 중)
-- **기술 스택**: Spring Boot, JPA, QueryDSL, JWT, Google Gemini AI
-- **주요 기능**: AI 기반 추천 서비스, 인증/인가 시스템
-- **담당 역할**: [담당한 기능을 구체적으로 작성 예정]
+- **기술 스택**: Spring Boot, JPA, QueryDSL, JWT
+- **주요 기능**: AI 기반 추천 서비스, CRUD
+- **담당 역할**: 인증/인가 파트
 
 ### 2. Spring AI + OpenAI 챗봇 (개인 프로젝트)
 [Repository](https://github.com/upotato200/SpringAI-openai-chatbot-CalendarTodo)
