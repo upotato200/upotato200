@@ -31,7 +31,7 @@
 - **기술 스택**: Spring Boot, Spring AI, OpenAI API
 - **설명**: 캘린더와 Todo 관리를 위한 AI 챗봇 시스템
 
-## Past Projects (2022.09 ~ 2022.11)(재학중)
+## Past Projects (2022.09 ~ 2022.11)(재학)
 
 ### 3. Travel MBTI (개인 프로젝트)
 [Repository](https://github.com/upotato200/TravelMBTI)
