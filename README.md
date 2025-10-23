@@ -22,7 +22,7 @@
 ## Current Projects (2025.08 ~ 2025.12)(졸업)
 
 ### 1. AI 활용 비즈니스 플랫폼 (진행 중)
-- **기술 스택**: Spring Boot, JPA, QueryDSL, JWT
+- **기술 스택**: Spring Boot, JPA, JWT
 - **주요 기능**: AI 기반 추천 서비스, CRUD
 - **담당 역할**: 인증/인가 파트
 
