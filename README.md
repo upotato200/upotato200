@@ -14,11 +14,6 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Mac](https://img.shields.io/badge/Mac-000000?style=flat-square&logo=apple&logoColor=white)
 
-## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=upotato200&show_icons=true&theme=default)
----
-
 ## Current Projects (2025.08 ~ 2025.12)(졸업)
 
 ### 1. AI 활용 비즈니스 플랫폼 (진행 중)
