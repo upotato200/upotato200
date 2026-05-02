@@ -14,8 +14,6 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Mac](https://img.shields.io/badge/Mac-000000?style=flat-square&logo=apple&logoColor=white)
 
-## Current Projects (2025.08 ~ 2025.12)(졸업)
-
 ### 1. AI 활용 비즈니스 플랫폼 (진행 중)
 - **기술 스택**: Spring Boot, JPA, JWT
 - **주요 기능**: AI 기반 추천 서비스, CRUD
@@ -25,8 +23,6 @@
 [Repository](https://github.com/upotato200/SpringAI-openai-chatbot-CalendarTodo)
 - **기술 스택**: Spring Boot, Spring AI, OpenAI API
 - **설명**: 캘린더와 Todo 관리를 위한 AI 챗봇 시스템
-
-## Past Projects (2022.09 ~ 2022.11)(재학)
 
 ### 3. Travel MBTI (개인 프로젝트)
 [Repository](https://github.com/upotato200/TravelMBTI)
