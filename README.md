@@ -2,8 +2,6 @@
 
 현재는 **Java / Spring Boot** 생태계와 **Oracle 기반 레거시 시스템**을 주력으로 성장하고 있습니다.
 
----
-
 ## Tech Stack
 
 ### Backend
@@ -24,8 +22,6 @@
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
----
 
 ## Projects
 
@@ -51,21 +47,15 @@
 ### 4. 공공 API 활용 특허 알림 SaaS — PatentPing (기획)
 - KIPRISPlus API 기반 IP 데이터 스타트업 경진대회 출품 기획안
 
----
-
 ## Currently Studying
 
 - **정보처리기사** 취득 준비 중
 - 학점은행제 정보통신공학 학사 과정 졸업예정
 
----
-
 ## Blog & Links
 
 [![Tistory](https://img.shields.io/badge/Tistory-Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://whlsls3377.tistory.com)
 [![GitHub](https://img.shields.io/badge/GitHub-upotato200-181717?style=flat-square&logo=github)](https://github.com/upotato200)
-
----
 
 ## GitHub Stats
 
