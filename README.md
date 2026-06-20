@@ -44,9 +44,6 @@
 - **기술 스택**: JavaScript (Vanilla)
 - MBTI 기반 여행 성향 테스트 서비스
 
-### 4. 공공 API 활용 특허 알림 SaaS — PatentPing (기획)
-- KIPRISPlus API 기반 IP 데이터 스타트업 경진대회 출품 기획안
-
 ## Currently Studying
 
 - **정보처리기사** 취득 준비 중
